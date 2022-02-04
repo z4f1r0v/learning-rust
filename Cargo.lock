@@ -5,3 +5,15 @@ version = 3
 [[package]]
 name = "learning-rust"
 version = "0.1.0"
+
+[[package]]
+name = "lifetimes"
+version = "0.1.0"
+
+[[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
+name = "vectors"
+version = "0.1.0"
