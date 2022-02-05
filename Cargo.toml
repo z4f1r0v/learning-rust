@@ -12,5 +12,6 @@ name = "learning-rust"
 members = [
     "ownership",
     "lifetimes",
-    "vectors"
+    "vectors",
+    "functional_concepts"
 ]
